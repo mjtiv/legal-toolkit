@@ -258,4 +258,22 @@ In practice:
 Admissions feels “numbers-driven” because it basically is.
 
 **Bottom line:**  
+
 Improving your LSAT doesn’t just make you look better — it makes you a safer admit, which increases both acceptances and scholarships.
+
+---
+
+## Author & Feedback
+
+Prepared by M. Joseph Tomlinson IV — Registered U.S. Patent Agent (USPTO Reg. No. 83,522).
+
+I went through the law school admissions process myself and was accepted, and this guide documents the practical steps, timelines, and small “gotchas” I wish someone had explained earlier.
+
+Portions were drafted with the assistance of AI-based tools and reviewed/edited by the author.
+
+This material is for educational purposes only.
+
+If you notice errors or have suggestions, please open an issue or reach out.
+
+Contact: mjtiv@udel.edu
+
