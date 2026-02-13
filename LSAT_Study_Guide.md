@@ -28,6 +28,8 @@ And because scholarships scale heavily with LSAT scores, **every single point ha
 
 Treat this test like an investment.
 
+If you take your first practice test and think “WTF was that?” — that’s 100% normal. Everyone feels that way at the beginning. The LSAT is intentionally unfamiliar and weird at first. Hang in there, trust the process, and grind through it. Improvement comes with repetition.
+
 ---
 
 # 📚 Best Study Resources
@@ -179,3 +181,4 @@ This material is for educational purposes only.
 If you notice errors or have suggestions, please open an issue or reach out.
 
 Contact: mjtiv@udel.edu
+
