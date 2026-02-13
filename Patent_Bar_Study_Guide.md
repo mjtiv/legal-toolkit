@@ -22,7 +22,7 @@ One thing to watch out for: PLI tends to emphasize a lot of Pre-AIA content.
 
 While Pre-AIA knowledge is still important in practice (since many older patents are still active), don’t over-focus on it strictly for the exam. Most of what you’ll see is Post-AIA, and personally I didn’t see a single Pre-AIA question on my test.
 
-That said, understanding both systems will still make you a better practitioner overall.
+Understanding both systems will still make you a better practitioner overall, especially since a large number of patents you’ll work with day-to-day were filed under the Pre-AIA rules and will remain active for many years, so knowing how that system works — and how to quickly look it up in the MPEP — is far more relevant in real life than it is on the test.
 
 ---
 
@@ -143,6 +143,8 @@ If you want a break from PLI’s format, the USPTO Examiner Training materials a
 
 They’re written more like internal guidance and help you understand how examiners actually think and apply the rules. Sometimes this style feels closer to what the real exam tests.
 
+In my own preparation, I noticed that a number of newer-style questions seemed to follow similar terminology and logic to what’s discussed in the training materials. That doesn’t mean the questions were copied from the training, but it does mean that reviewing those materials can give you a better feel for the way the PTO frames concepts and the way questions are likely to be structured.
+
 ---
 
 # Final Thoughts
@@ -156,4 +158,7 @@ As your exam date approaches, start doing full 50-question blocks in one sitting
 The Patent Bar is a grind, not a sprint.
 
 But it’s absolutely beatable if you prepare methodically and stay persistent.
+
+
+
 
