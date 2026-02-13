@@ -1,11 +1,11 @@
-# legal-toolkit
+# Legal Toolkit
 
-A practical collection of guides, checklists, and notes for navigating law school, the LSAT, the patent bar, and legal career logistics.
+A collection of practical guides for pre-law and bar preparation.
 
-This repo is basically the stuff I wish someone had handed me earlier — process notes, study tips, timelines, and small “gotchas” that aren’t obvious until you’ve done it the hard way.
+## Guides
+- [Patent Bar Study Guide](Patent_Bar_Study_Guide.md)
+- [Law School Application Cheat Sheet](Law_School_Application_Cheat_Sheet.md)
+- [LSAT Study Guide](LSAT_Study_Guide.md)
 
-Nothing fancy. Just practical documentation.
-
-Use whatever helps.
-
-(Informational only — not legal advice.)
+## About
+This repository was created by M. Joseph Tomlinson IV, USPTO Reg. No. 83,522.
