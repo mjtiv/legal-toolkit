@@ -159,6 +159,21 @@ The Patent Bar is a grind, not a sprint.
 
 But it’s absolutely beatable if you prepare methodically and stay persistent.
 
+---
+
+## Author & Feedback
+
+Prepared by M. Joseph Tomlinson IV — Registered U.S. Patent Agent (USPTO Reg. No. 83,522).
+
+I came into IP with no prior patent background and passed the Patent Bar after several attempts over ~7 months of focused study. This guide reflects what actually worked for me in practice, not just theory.
+
+Portions were drafted with the assistance of AI-based tools and reviewed/edited by the author.
+
+This material is for educational purposes only.
+
+If you notice errors or have suggestions, please open an issue or reach out.
+
+Contact: mjtiv@udel.edu
 
 
 
