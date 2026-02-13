@@ -13,6 +13,25 @@
 
 If you can only improve one thing, improve your **LSAT**.
 
+
+## Table of Contents
+
+- [Big Picture First (Reality Check)](#big-picture-first-reality-check)
+- [Step 1 — Create LSAC Account (Free)](#step-1--create-lsac-account-free)
+- [Step 2 — Prepare for the LSAT](#step-2--prepare-for-the-lsat)
+- [Step 3 — Register for the LSAT](#step-3--register-for-the-lsat)
+- [Step 4 — Purchase CAS (Credential Assembly Service)](#step-4--purchase-cas-credential-assembly-service)
+- [Step 5 — Send Transcripts](#step-5--send-transcripts)
+- [Step 6 — Letters of Recommendation (3–4 ideal)](#step-6--letters-of-recommendation-34-ideal)
+- [Step 7 — Personal Statement](#step-7--personal-statement)
+- [Step 8 — Choose Schools Strategically](#step-8--choose-schools-strategically)
+- [Step 9 — Submit Applications](#step-9--submit-applications)
+- [Step 10 — Wait (Timelines Vary Wildly)](#step-10--wait-timelines-vary-wildly)
+- [Extra Strategy Tips (High Impact)](#-extra-strategy-tips-high-impact)
+- [LSAT/GPA Breakdown by School Tier](#-lsatgpa-breakdown-by-school-tier-rule-of-thumb-ranges)
+- [Why LSAT + GPA Really Matter (Behind the Scenes)](#-why-lsat--gpa-really-matter-behind-the-scenes)
+- [Author & Feedback](#author--feedback)
+
 ---
 
 # Step 1 — Create LSAC Account (Free)
@@ -276,4 +295,5 @@ This material is for educational purposes only.
 If you notice errors or have suggestions, please open an issue or reach out.
 
 Contact: mjtiv@udel.edu
+
 
