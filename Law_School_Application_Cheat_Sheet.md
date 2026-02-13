@@ -16,7 +16,6 @@ If you can only improve one thing, improve your **LSAT**.
 
 ## Table of Contents
 
-- [Big Picture First (Reality Check)](#big-picture-first-reality-check)
 - [Step 1 — Create LSAC Account (Free)](#step-1--create-lsac-account-free)
 - [Step 2 — Prepare for the LSAT](#step-2--prepare-for-the-lsat)
 - [Step 3 — Register for the LSAT](#step-3--register-for-the-lsat)
@@ -295,5 +294,6 @@ This material is for educational purposes only.
 If you notice errors or have suggestions, please open an issue or reach out.
 
 Contact: mjtiv@udel.edu
+
 
 
